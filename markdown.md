@@ -17,7 +17,7 @@ else:
 
 - Malware
 - Phishing
-- Ransonware
+- Ransomware
 - Ataques de fuerza bruta
 
 ### Pasos para crear una contraseña segura
