@@ -29,4 +29,4 @@ else:
 
 ### Enlaces 
 - Enlace externo: [INCIBE](https://www.incibe.es)
-- Enlace relativo: [Ver mñas detalles](docs/detalles.md)
+- Enlace relativo: [Ver más detalles](docs/detalles.md)
