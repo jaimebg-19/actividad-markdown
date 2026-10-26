@@ -30,3 +30,6 @@ else:
 ### Enlaces 
 - Enlace externo: [INCIBE](https://www.incibe.es)
 - Enlace relativo: [Ver más detalles](docs/detalles.md)
+
+### Imagen local
+![Ilustración de ciberseguridad](assets/mi-imagen.png)
