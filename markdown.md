@@ -26,3 +26,7 @@ else:
 2. Combina letras, números y símbolos
 3. No reutilices contraseñas
 4. Activa la verificación en dos pasos
+
+### Enlaces 
+- Enlace externo: [INCIBE](https://www.incibe.es)
+- Enlace relativo: [Ver mñas detalles](docs/detalles.md)
