@@ -12,3 +12,17 @@ if len (contraseña) >= 12:
 else:
     print("Contraseña débil")
 ```
+
+###Tipos de amenazas 
+
+- Malware
+- Phishing
+- Ransonware
+- Ataques de fuerza bruta
+
+### Pasos para crear una contraseña segura
+
+1. Usa al menos 12 caracteres
+2. Combina letras, números y símbolos
+3. No reutilices contraseñas
+4. Activa la verificación en dos pasos
