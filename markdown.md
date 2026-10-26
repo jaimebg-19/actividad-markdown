@@ -37,3 +37,11 @@ else:
 ### Imagen externa 
 
 ![Instituto](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/1920px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20200711190004)
+
+### Tabla de amenazas
+
+| Amenaza | Descripción | Protección |
+|---------|-------------|------------|
+| Phishing | Correos falsos que roban datos | No abrir enlaces sospechosos |
+| Ransomware | Cifra archivos y pide rescate | Hacer copias de seguridad |
+| Fuerza bruta | Prueba contraseñas hasta acertar | Usar contraseñas largas |
