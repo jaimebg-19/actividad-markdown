@@ -1,4 +1,6 @@
-### Enlaces
+# Detalles de ciberseguridad
 
-- Enlace externo: [INCIBE](https://www.incibe.es)
-- Enlace relativo: [Ver más detalles](docs/detalles.md)
+Este fichero amplía la información del documento principal 
+
+- El phishing intenta engañar al usuario para robar sus datos
+- El ransomware cifra los archivos y pide un rescate 
