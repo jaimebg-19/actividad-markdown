@@ -33,3 +33,7 @@ else:
 
 ### Imagen local
 ![Ilustración de ciberseguridad](assets/mi-imagen.png)
+
+### Imagen externa 
+
+![Instituto](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/1920px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20200711190004)
