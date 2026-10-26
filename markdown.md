@@ -13,7 +13,7 @@ else:
     print("Contraseña débil")
 ```
 
-###Tipos de amenazas 
+### Tipos de amenazas 
 
 - Malware
 - Phishing
